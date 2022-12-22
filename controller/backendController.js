@@ -7,5 +7,5 @@ exports.login = function(req, res){
 }
 
 exports.blank = function(req, res){
-    res.render('backend/blank')
+    res.render('backend/main')
 }
