@@ -1,15 +1,15 @@
 exports.index = function(req, res){
-    res.render('index')
+    res.render('frontend/index')
 }
 
 exports.blog = function(req, res){
-    res.render('blog')
+    res.render('frontend/blog')
 }
 
 exports.contact = function(req, res){
-    res.render('contact')
+    res.render('frontend/contact')
 }
 
 exports.about = function(req, res){
-    res.render('about')
+    res.render('frontend/about')
 }
