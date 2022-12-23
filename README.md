@@ -16,6 +16,6 @@ https://github.com/StartBootstrap/startbootstrap-sb-admin-2
 ### cd portfolio_webapp
 
 ### nodemon app.js
-	#### or
+	or
 ### node app.js
 
