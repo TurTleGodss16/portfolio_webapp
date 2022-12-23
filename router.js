@@ -12,6 +12,7 @@ router.get('/about', userController.about)
 //admin controller
 router.get('/login', backendController.login)
 router.get('/register', backendController.regsiter)
+router.post('/register', backendController.create_user)
 router.get('/main', backendController.blank)
 
 module.exports = router
