@@ -16,8 +16,5 @@ mongodb.connect(process.env.CONNECTION,
                         {
                             console.log('Connect to server')
                         })
-                        if (process.env.NODE_ENV !== "production") {
-                            require("dotenv").config();
-                          }
                     }
 })
