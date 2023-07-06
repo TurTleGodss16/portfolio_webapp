@@ -1,5 +1,7 @@
 # My Portfolio Website
 
+A webapp that show the basic information about a company and the product, and users can create and sign in to the webapp. The company able to use a backend screen to manage the users' account
+
 ## Tools: NodeJS, EJS, MongoDB
 
 ## Download frontend template:
